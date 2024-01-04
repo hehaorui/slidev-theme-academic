@@ -1,24 +1,22 @@
 {
-  "name": "slidev-theme-academic",
-  "description": "Academic presentations with Slidev made simple",
+  "name": "slidev-theme-academic-hehaorui",
+  "description": "Academic presentations with Slidev made simple, modified by HE,HAORUI",
   "version": "1.1.3",
   "author": {
-    "name": "Alexander Eble",
-    "email": "mail@alexeble.de",
-    "url": "https://www.alexeble.de"
+    "name": "HE,HAORUI",
+    "email": "mail@hehaorui.com",
+    "url": "https://blog.hehaorui.com"
   },
-  "homepage": "https://slidev-theme-academic.alexeble.de",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexanderdavide/slidev-theme-academic"
+    "url": "https://github.com/hehaorui/slidev-theme-academic.git"
   },
-  "funding": "https://ko-fi.com/alexanderdavide",
   "license": "MIT",
   "keywords": [
-    "academic",
+    "academic-hehaorui",
     "slidev",
     "slidev-theme",
-    "slidev-theme-academic"
+    "slidev-theme-academic-hehaorui"
   ],
   "scripts": {
     "build": "node prebuild.js && slidev build example.md",
